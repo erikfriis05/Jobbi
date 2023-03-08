@@ -253,19 +253,19 @@ nav{
     border-radius: 10px;
 }
 .story1{
-    background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url(images/status-1.png);
+    background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url(images/status-1.jpeg);
 }
 .story2{
-    background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url(images/status-2.png);
+    background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url(images/status-2.jpeg);
 }
 .story3{
-    background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url(images/status-3.png);
+    background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url(images/status-3.jpeg);
 }
 .story4{
-    background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url(images/status-4.png);
+    background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url(images/status-4.jpeg);
 }
 .story5{
-    background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url(images/status-5.png);
+    background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url(images/status-5.jpeg);
 }
 .story img{
     width: 45px;
